@@ -14,7 +14,7 @@ Counterexample-guided synthesis of contraction metrics for continuous-time syste
 
 A formulation of behavioral systems in terms of probability measures on admissible trajectories, with numerical studies on control and data-driven trajectory representations.
 
-[Preprint](https://arxiv.org/abs/2605.01558) · [Companion code](https://github.com/vmpreciado/2026_CDC_Willems)
+[Preprint](https://arxiv.org/abs/2605.01558) · [Companion code](https://github.com/vmpreciado/behavioral-systems-measures)
 
 ### Optimal Multiharmonic Forcing Design for Homoclinic Chaos Control via Convex Optimization
 
