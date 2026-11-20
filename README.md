@@ -44,3 +44,5 @@ Code and synthetic data for estimating epidemic rates and network structure from
 ## Book companion materials
 
 [Machine Learning for Data Science: Judgment, Specification, and Verification in the Age of Generated Code](https://github.com/vmpreciado/ml4ds-code) — reference Python implementations, experiments, and figure-generation code.
+
+*Linear Models for Nonlinear Dynamics* — [Download the free sample (PDF)](https://raw.githubusercontent.com/vmpreciado/linear-models-for-nonlinear-dynamics/main/linear-models-for-nonlinear-dynamics-free-sample.pdf).
